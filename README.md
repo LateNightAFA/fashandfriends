@@ -4,9 +4,11 @@ This project contains friend and follower lists of various white nationalists, w
 
 Lists were pulled using tools from [TweetBeaver](https://tweetbeaver.com) and all data was publicly available on user profiles as of February 2023.
 
-Note: TweetBeaver's friend and follower lists tools had a hard limit of 10k friends or followers, and due to this limitation may be incomplete. 
+Note: TweetBeaver's friend and follower lists tools had a limit of about 10k friends or followers, and due to this limitation lists may be incomplete. 
 
 ##
+## ⬇️ [Download all](https://github.com/LateNightAFA/fashandfriends/archive/refs/heads/main.zip)
+
 ## ➡️ [View files](https://github.com/LateNightAFA/fashandfriends/tree/main/data)
 
 ## ℹ️ [More from LNAFA](https://latenightafa.noblogs.org/)
