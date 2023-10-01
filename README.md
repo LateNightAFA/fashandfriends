@@ -8,4 +8,6 @@ Note: TweetBeaver's friend and follower lists tools had a hard limit of 10k frie
 
 ## ➡️ [Go to folder](https://github.com/LateNightAFA/fashandfriends/tree/main/data)
 
-## ℹ️ [More Information](https://latenightafa.noblogs.org/)
+## ℹ️  [More from LNAFA](https://latenightafa.noblogs.org/)
+
+## 🔗  [Follow us on Twitter](https://twitter.com/latenightafa))
