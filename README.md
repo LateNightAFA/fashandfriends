@@ -6,4 +6,4 @@ Lists were pulled using tools from [TweetBeaver](https://tweetbeaver.com), which
 
 ## ➡️ [Go to folder](https://github.com/LateNightAFA/fashandfriends/tree/main/data)
 
-## [More Information](https://latenightafa.noblogs.org/)
+## ℹ️ [More Information](https://latenightafa.noblogs.org/)
