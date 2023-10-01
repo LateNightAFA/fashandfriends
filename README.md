@@ -1,3 +1,5 @@
+[img]https://github.com/LateNightAFA/fashandfriends/blob/main/img/fnf-img.png?raw=true[/img]
+
 # Fash & Friends Twitter Files
 
 This project contains friend and follower lists of various white nationalists, white supremacists, and users within their network.
