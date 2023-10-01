@@ -7,8 +7,8 @@ Lists were pulled using tools from [TweetBeaver](https://tweetbeaver.com) and al
 Note: TweetBeaver's friend and follower lists tools had a hard limit of 10k friends or followers, and due to this limitation may be incomplete. 
 
 ##
-## ➡️ [Go to folder](https://github.com/LateNightAFA/fashandfriends/tree/main/data)
+## [➡️  Go to folder](https://github.com/LateNightAFA/fashandfriends/tree/main/data)
 
-## ℹ️  [More from LNAFA](https://latenightafa.noblogs.org/)
+## [ℹ️  More from LNAFA](https://latenightafa.noblogs.org/)
 
-## 🔗  [Follow us on Twitter](https://twitter.com/latenightafa)
+## [🔗  Follow us on Twitter](https://twitter.com/latenightafa)
