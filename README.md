@@ -1,4 +1,4 @@
-[img]https://github.com/LateNightAFA/fashandfriends/blob/main/img/fnf-img.png?raw=true[/img]
+![Fash & Friends](https://github.com/LateNightAFA/fashandfriends/blob/main/img/fnf-img.png)
 
 # Fash & Friends Twitter Files
 
